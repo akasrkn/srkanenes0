@@ -1,0 +1,30 @@
+html{
+    background-color: #000513;
+}
+
+*{
+    color: #a2c6e9;
+    font-weight: 900;
+    border-radius: 30px;
+}
+
+ol,ul{
+    font-size: large;
+}
+
+.a{
+    background: #0c2b3b;
+    text-align: center;
+    width: 350px;    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 51,9%;
+  }
+
+  ol{
+    list-style-type: none;
+  }

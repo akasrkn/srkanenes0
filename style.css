@@ -1,0 +1,87 @@
+html{
+    background-color: #000513;
+}
+
+*{
+    color: #a2c6e9;
+    border-radius: 30px;
+}
+
+#name{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.pictureserkan{
+    border-radius: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 31,9%;
+  }
+
+  .title{
+    background-color: #0c2b3b;
+  }
+
+  .menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+   
+  .menu li{
+    float: left;
+    position: relative;
+    width: 120px;
+  }
+   
+  .menu ul li ul{
+    display: none;
+  }
+   
+  .menu ul li:hover ul{
+    display: block;
+  }
+   
+  .menu ul li a{
+    text-decoration: none;
+    background: #0c2b3b;
+    display: block;
+    color: #a2c6e9;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    border-bottom: 2px solid #a2c6e9;
+    border-left: 1px solid #a2c6e9;
+    padding: 5px;
+  }
+   
+  .menu ul li ul li a{
+    background: #595959;
+    text-align: left;
+    padding: 5px;
+    border-bottom: 1px solid #333;
+    font-size: .8em;
+  }
+   
+  .menu li a:hover{
+    background: rgb(248,140,0);
+    transition: .5s;
+  }
+   
+  .menu ul li ul li a:hover{
+    padding-left: 15px;
+    
+  }
+
+  
+
+
+
